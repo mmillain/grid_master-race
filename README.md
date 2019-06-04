@@ -10,7 +10,7 @@ Es muy importante ver la siguiente tabla ya que si necesitamos hacer un diseño 
 ## ¿Qué podemos hacer con Grid?
 
 Algo como esto:
-![Alt text](./images/caniuse.png?raw=true "CanIuse")
+![Alt text](./images/grid-example.png?raw=true "CanIuse")
 
 ### Compatibilidad:
 

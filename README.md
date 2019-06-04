@@ -2,17 +2,19 @@
 Demostración de diseños responsivos con grid
 
 ## ¿Que es Grid?
-Grid es una técnica de diseño de cuadrícula de CSS en donde no necesitamos nada extra para hacerlo funcionar, evitamos maquetar con elementos float y hacemos un simple uso con solo declarar la propiedad display: grid ya estamos aptos para utilizar dicha técnica.
+Grid es una técnica de diseño de cuadrícula de CSS en donde no necesitamos nada extra para hacerlo funcionar, evitamos maquetar con elementos float y hacemos un simple uso con solo declarar la propiedad **display: grid**.
 
 ## Compatibilidad con los navegadores
 Es muy importante ver la siguiente tabla ya que si necesitamos hacer un diseño para navegadores antiguos vamos a tener que aplicar cierta lógica para acomodar nuestros estilos
 
 ## ¿Qué podemos hacer con Grid?
 
-Algo como esto:
+### Algo como esto:
 ![Alt text](./images/grid-example.png?raw=true "CanIuse")
 
 ### Compatibilidad:
+
+Como podemos observar los navegadores en sus ultimas versiones hacen uso de esta propiedad casi en tu totalidad. Tener atención si queremos hacer algo 100% mobile ya que van a haber propiedades que no van a tener soporte (por el momento).
 
 ![Alt text](./images/caniuse.png?raw=true "CanIuse")
 

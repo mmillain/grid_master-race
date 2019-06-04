@@ -28,6 +28,10 @@ En esta demostración vamos a ver como hacer un diseño responsivo, colocando el
 - **display: grid**
 -- Los items se ordenan con un full width en cada espacio del container
 
+- **grid-gap:** _( px | em | rem | % | initial | inherit | unset )_
+-- Se utiliza para darle un margen a cada item pero solo en la distancia del uno con el otro, no con el container principal
+
+
 - **grid-template-rows:** _( px | em | rem | % | fr | functions like repeat and it-content )_
 -- Con esto indicamos valores para nuestras filas
 

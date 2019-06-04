@@ -44,6 +44,7 @@ En esta demostración vamos a ver como hacer un diseño responsivo, colocando el
 
 ## Recursos:
 - https://learncssgrid.com/ (Recomendado)
+- https://cssgridgarden.com/ (Juego interactivo para poner en practica grid)
 - https://caniuse.com/#search=grid (Compatibilidad de grid)
 - https://lenguajecss.com/p/css/propiedades/grid-css (Doc en español)
 - https://youtu.be/bam83Xv4VMA (Responsive CSS Grid with NO MEDIA QUERIES!)

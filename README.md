@@ -43,6 +43,7 @@ En esta demostración vamos a ver como hacer un diseño responsivo, colocando el
 -- Representa un fragmento repetido de la lista de vías, permitiendo que un gran número de filas que muestran un patrón recurrente se escriban de una manera más compacta.
 
 ## Recursos:
+- https://cssgrid-generator.netlify.com/ (Grid generator online)
 - https://learncssgrid.com/ (Recomendado)
 - https://cssgridgarden.com/ (Juego interactivo para poner en practica grid)
 - https://caniuse.com/#search=grid (Compatibilidad de grid)
